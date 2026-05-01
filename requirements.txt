@@ -1,0 +1,14 @@
+mistralai
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+chromadb
+sentence-transformers
+pypdf
+numpy
+pandas
+tiktoken
+requests
