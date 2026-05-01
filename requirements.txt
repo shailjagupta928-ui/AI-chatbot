@@ -12,3 +12,4 @@ numpy
 pandas
 tiktoken
 requests
+langchain-mistralai
