@@ -16,7 +16,7 @@ Detects user mood (Happy, Sad, Angry, Neutral, etc.)
 Technologies Used
 
 Python
-Streamlit / Flask (UI)
+Streamlit 
 Pandas & NumPy
 
 🧠 How It Works
