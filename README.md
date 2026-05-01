@@ -1,7 +1,10 @@
 Mood Bot – AI Emotion-Based Chatbot
 
+
+
 <img width="1701" height="818" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/0dd5c28b-6050-4e83-93f4-fce0815a7e77" />
 
+streamlit app :- https://ai-chatbot-mamw2kdfwba9yzy5p4umql.streamlit.app/
 
 Mood Bot is an AI-powered chatbot that detects the user’s mood/emotion from text input and responds accordingly.
 It helps in providing emotional support, friendly conversation, and mental wellness interaction.
