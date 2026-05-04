@@ -15,6 +15,12 @@ Detects user mood (Happy, Sad, Angry, Neutral, etc.)
 ⚡ Real-time interaction
 🌱 Can be extended for mental health support
 
+🎯 Use Cases
+Mental health support (basic level)
+Stress relief interaction
+AI chatbot learning project
+Emotion-aware virtual assistant
+
 
 Technologies Used
 
@@ -38,5 +44,5 @@ Bot responds based on detected mood
 
 👩‍💻 Author
 
-Shailja Gupta
+Shailja Gupta 
  AI & ML Enthusiast
